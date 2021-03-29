@@ -17,3 +17,22 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.aminu2 {
+  height: 160px;
+  width: 160px;
+  border-radius: 80px;
+}
+.big {
+  background-color: aquamarine;
+}
+.big .infooter {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.title {
+  background-color: rgb(201, 94, 187);
+  margin-left: 20%;
+  margin-right: 20%;
+}

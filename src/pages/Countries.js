@@ -12,7 +12,7 @@ function Countries() {
     <section className="mt-5">
       <div className="container">
         <div className="m-5 border-bottom bg-transparent text-center">
-        <h1 >MY NAME IS IDDRISU AMINU</h1>
+        <h1 className="title" >MY NAME IS IDDRISU AMINU</h1>
           <h1>List Of countries</h1>
         </div>
         <div className="row text-center">
